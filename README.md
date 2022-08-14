@@ -8,5 +8,6 @@
 <!-- [<img src="https://img.shields.io/badge/twitch-blueviolet.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/roberttlange) -->
 
 <p align="center">
-Hi there 🤗 I am Rob - a ML PhD student at TU Berlin. I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code>, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code>. 
+Hi there 🤗 I am Rob - a ML PhD student at TU Berlin. I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code>, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code>.<br>
+I am currently interning in the Discovery Team at DeepMind.
 </p>
