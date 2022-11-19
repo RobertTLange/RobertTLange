@@ -9,5 +9,5 @@
 
 <p align="center">
 Hi there 🤗 I am Rob - a ML PhD student at TU Berlin. I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code>, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code>.<br>
-I am currently interning in the Discovery Team at DeepMind.
+I previously interned in the Discovery Team at DeepMind.
 </p>
