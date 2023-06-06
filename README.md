@@ -9,5 +9,6 @@
 
 <p align="center">
 Hi there 🤗 I am Rob - a PhD student at TU Berlin working on Evolutionary Meta-Learning.<br>I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code> 🦎, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> 🏋️ & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code> 🤹.<br>
-I also previously interned in the Discovery Team at DeepMind.
+Currently I am working as a Graduate Student Researcher @ Google DeepMind (Tokyo Team) 🗼.<br>
+I also previously interned in the Discovery Team at DeepMind London & Accenture in Barcelona.
 </p>
