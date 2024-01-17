@@ -8,7 +8,8 @@
 <!-- [<img src="https://img.shields.io/badge/twitch-blueviolet.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/roberttlange) -->
 
 <p align="center">
-Hi there 🤗 I am Rob - a PhD student at TU Berlin working on Evolutionary Meta-Learning.<br>I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code> 🦎, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> 🏋️ & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code> 🤹.<br>
-Currently I am working as a Graduate Student Researcher @ Google DeepMind (Tokyo 🗼) .<br>
-I also previously interned in the Discovery Team at DeepMind LDN & Accenture in BCN.
+Hi there 🤗 I am Rob - a Research Scientist @Sakana.AI & PhD student @ TU Berlin.<br>
+I work on meta-optimization, hardware-accelerated evolution & nature-inspired foundation models 🧬.<br>
+I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code> 🦎, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> 🏋️ & the <code><a href="https://github.com/mle-infrastructure">MLE-Infrastructure</a></code> 🤹.<br>
+Previously, I was a Graduate Student Researcher @ Google DM (TKY 🗼) & interned @ Legacy DM (LDN 🇬🇧).
 </p>
