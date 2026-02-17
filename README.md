@@ -9,6 +9,6 @@
 <p align="center">
 Hi there 🤗 I am Rob - a Research Scientist @<code><a href="https://sakana.ai/">SakanaAI</a></code> & PhD student @ TU Berlin.<br>
 I work on meta-optimization, hardware-accelerated evolution & automated scientific discovery 🧬.<br>
-I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code> 🦎, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> 🏋️ & the <code><a href="https://github.com/SakanaAI/ShinkaEvolve">ShinkaEvolve</a></code> 🧬.<br>
+I maintain <code><a href="https://github.com/RobertTLange/evosax">evosax</a></code> 🦎, <code><a href="https://github.com/RobertTLange/gymnax">gymnax</a></code> 🏋️ & <code><a href="https://github.com/SakanaAI/ShinkaEvolve">ShinkaEvolve</a></code> 🧬.<br>
 Previously, I was a Graduate Student Researcher @ Google DM (TKY 🗼) & interned @ Legacy DM (LDN 🇬🇧).
 </p>
