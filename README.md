@@ -19,6 +19,7 @@ Previously, I was a Graduate Student Researcher @ Google DM (TKY 🗼) & interne
 - 👨‍🔬 **[AI Scientist v1](https://github.com/SakanaAI/AI-Scientist)** - End-to-end agentic research + paper-writing based on code template
 - 🔎 **[agentlens](https://github.com/RobertTLange/agentlens)** - Local in-depth observability for coding-agent session traces
 - 🤖 **[headless-cli](https://github.com/RobertTLange/headless-cli)** - Single unified CLI for headless coding agent execution
+- 📈 **[autotune](https://github.com/RobertTLange/autotune)** - Agent-assisted hyperparameter optimization
 - 🙋 **[ask-cli](https://github.com/RobertTLange/ask-cli)** - Have agents answer questions about installed CLI tools
 - 🔌 **[agents.nvim](https://github.com/RobertTLange/agents.nvim)** - A neovim plugin for coding agents (claude, codex, etc.)  
 - 📋 **[todui](https://github.com/RobertTLange/todui)** - Local-first terminal todo sessions with a TUI for human/agent collaboration
