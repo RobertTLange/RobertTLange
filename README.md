@@ -14,7 +14,7 @@ Previously, I was a Graduate Student Researcher @ Google DM (TKY 🗼) & interne
 
 ## Projects
 
-- 🧑‍🔬 **[Agentic Scientist](https://github.com/SakanaAI/AI-Scientist-v3)** - Orchestration of coding agents for scientific (co-)discovery
+- 🧑‍🔬 **[AI Scientist v3](https://github.com/SakanaAI/AI-Scientist-v3)** - Orchestration of coding agents for scientific (co-)discovery
 - 🧑‍🔬 **[AI Scientist v2](https://github.com/SakanaAI/AI-Scientist-v2)** - End-to-end agentic research with tree search and template-free
 - 👨‍🔬 **[AI Scientist v1](https://github.com/SakanaAI/AI-Scientist)** - End-to-end agentic research + paper-writing based on code template
 - 🧬 **[ShinkaEvolve](https://github.com/SakanaAI/ShinkaEvolve)** - Sample-efficient LLM-driven code evolution for discovery
